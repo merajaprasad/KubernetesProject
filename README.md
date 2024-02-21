@@ -1,2 +1,2 @@
-# KubernetesProject
+# NETFLIX Clone DevSecOps Project
 KubernetesProject
